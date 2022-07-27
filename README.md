@@ -1,2 +1,2 @@
 # Personal-Website
-Website to showcase coding progress.
+Website to showcase my coding progress.
